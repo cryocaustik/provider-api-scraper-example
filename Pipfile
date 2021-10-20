@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+tinydb = "*"
+black = "==21.9b0"
+tqdm = "*"
+python-dotenv = "*"
+
+[dev-packages]
+black = "==21.9b0"
+
+[requires]
+python_version = ">3.9"

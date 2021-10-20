@@ -1,0 +1,9 @@
+.venv/
+.vscode/
+.idea/
+
+*.log
+*.db
+.env
+
+!.gitkeep
